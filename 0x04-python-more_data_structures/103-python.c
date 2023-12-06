@@ -1,5 +1,6 @@
-include <stdio.h>
+#include <stdio.h>
 #include <Python.h>
+#include <stddef.h>
 
 /**
  * print_python_bytes - Prints bytes information
